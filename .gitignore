@@ -1,0 +1,6 @@
+.idea/
+_old/
+venv/
+
+env.py
+*.sqlite3

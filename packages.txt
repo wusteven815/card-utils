@@ -1,0 +1,8 @@
+aiofiles
+aiosqlite
+git+https://github.com/Rapptz/discord.py
+orjson
+pillow
+python-dotenv
+requests
+ujson
